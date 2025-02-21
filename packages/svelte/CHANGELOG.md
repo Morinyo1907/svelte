@@ -1,5 +1,11 @@
 # svelte
 
+## 5.20.3
+
+### Patch Changes
+
+- chore: remove unnecessary `?? ''` on some expressions ([#15287](https://github.com/sveltejs/svelte/pull/15287))
+
 ## 5.20.2
 
 ### Patch Changes
